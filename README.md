@@ -24,7 +24,7 @@ This is a **Course Learning Management System (LMS)** built with **Next.js**. It
 ## Installation & Setup
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/nextjs-lms.git
+git clone https://github.com/Razeen2004/course_lms.git
 cd nextjs-lms
 ```
 
@@ -72,16 +72,6 @@ Or use **Docker**:
 docker build -t nextjs-lms .
 docker run -p 3000:3000 nextjs-lms
 ```
-
-## Contribution Guidelines
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`
-3. Commit changes: `git commit -m "Added feature XYZ"`
-4. Push to GitHub: `git push origin feature-name`
-5. Open a Pull Request.
-
-## License
-This project is **MIT Licensed**.
 
 ## Contact
 For any queries or support, reach out:
