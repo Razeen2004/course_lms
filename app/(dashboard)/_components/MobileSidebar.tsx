@@ -9,7 +9,7 @@ const MobileSidebar = () => {
             </SheetTrigger>
             <SheetContent side="left" className="p-0 bg-white">
                 <SheetTitle className="hidden">
-                    Mobile Navigation
+                    Mobile-Navigation
                 </SheetTitle>
                 <Sidebar />
             </SheetContent>
