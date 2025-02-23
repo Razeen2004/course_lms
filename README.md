@@ -86,4 +86,4 @@ This project is **MIT Licensed**.
 ## Contact
 For any queries or support, reach out:
 - **Email:** razeenbaig10@gmail.com
-- **GitHub:** [your-username](https://github.com/Razeen2004)
+- **GitHub:** [Me](https://github.com/Razeen2004)
