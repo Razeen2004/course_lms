@@ -1,6 +1,6 @@
 import { UserButton } from "@clerk/nextjs";
 const Main = () => {
-    return <UserButton />;
+    return <p></p>;
 }
  
 export default Main;
